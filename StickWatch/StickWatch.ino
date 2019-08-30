@@ -1,6 +1,6 @@
-// CHAR:0-1                                              baudrate on debug tool(串口监视器):115200 Do not set wrong!PROGRAM AREA DOWN HERE.
+//                                               baudrate on tool:115200 Do not set wrong!
 // ==============================================================================================================================================================================================
-#include "sensor.h"                                   //CHAR:1
+#include "sensor.h"   
 #include "temp_sensor.h"
 #include "irq.h"
 #include "io.h"
