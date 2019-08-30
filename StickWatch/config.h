@@ -2,8 +2,8 @@
 #define _CONFIG_H_
 
 // user configurable variables start
-const char* BUILTIN_WIFI_SSID      = "Placenet";
-const char* BUILTIN_WIFI_PASSWORD  = "fe1234567890dc1234567890ba";
+const char* BUILTIN_WIFI_SSID      = "wifiname";
+const char* BUILTIN_WIFI_PASSWORD  = "wifipassword";
 // 光标敏感度
 const float MAX_CURSOR_ACC = 12;
 // user configurable variables end
