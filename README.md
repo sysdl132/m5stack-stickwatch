@@ -20,6 +20,4 @@ const char* BUILTIN_WIFI_PASSWORD  = "wifi_password";
 
 # APP Version
 
-Latest version is  1.76-r3
-V1.76-R3>>>Fix some bugs
-V0.20>>>First create
+Latest version is  1.76-r3\\//V1.76-R3>>>Fix some bugs\\//V0.20>>>First create
