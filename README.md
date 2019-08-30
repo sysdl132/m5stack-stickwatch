@@ -13,7 +13,11 @@ ESP32:
      | BLE
      | Wifi(built-in)
 
-//Required change-code:
+Required change-code:
 in "config.h":
 const char* BUILTIN_WIFI_SSID      = "wifi_name";
 const char* BUILTIN_WIFI_PASSWORD  = "wifi_password";
+
+# APP Version
+
+V1.76-R3
