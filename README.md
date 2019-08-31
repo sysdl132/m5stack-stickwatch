@@ -2,7 +2,7 @@
 
 # m5stack-stickwatch
 
-Little changed on eggfly's stickwatch.
+[Little changed on eggfly's stickwatch.](https://github.com/eggfly/StickWatch)
 
 # NOTE
 
@@ -36,7 +36,7 @@ index of M5Stick:
 
 # m5stack-stickwatch
 
-在eggfly的文件上略微改动。
+[在eggfly的文件上略微改动。](https://github.com/eggfly/StickWatch)
 
 # 注意
 
