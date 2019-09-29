@@ -5,7 +5,7 @@
 [Little changed on eggfly's stickwatch.](https://github.com/eggfly/StickWatch)
 
 # NOTE
-
+I think the power management system is not working...
 Required settings:
 M5Stack-Core-ESP32, QIO, 80MHz, No OTA (Large APP), 921600, Verbose//
 Required libraries:
@@ -39,6 +39,7 @@ index of M5Stick:
 [在eggfly的文件上略微改动。](https://github.com/eggfly/StickWatch)
 
 # 注意
+电池与温度系统无法正常运行。
 
 所需设置：
 M5Stack-Core-ESP32, QIO, 80MHz, No OTA (Large APP), 921600, Verbose//
