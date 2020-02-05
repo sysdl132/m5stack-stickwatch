@@ -40,6 +40,10 @@ Latest version is v1.4|v1.4 Fix some bugs|V0.20 First create
 index of M5Stick:
 [click here](https://docs.m5stack.com/#/en/core/m5stick)
 
+flash download tools v3.6.8:
+
+[DOWNLOAD](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.8_0.zip)
+
 Language:[English](https://github.com/sysdl132/m5stack-stickwatch/blob/master/README.md#english-version) | 中文
 
 # 中文版
@@ -75,3 +79,7 @@ const char* BUILTIN_WIFI_PASSWORD  = "wifi密码";
 
 设备数据：
 [点我](https://docs.m5stack.com/#/zh_CN/core/m5stick)
+
+flash download tools v3.6.8:
+
+[下载](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.8_0.zip)
