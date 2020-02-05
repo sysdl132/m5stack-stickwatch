@@ -1,5 +1,10 @@
 # English version
 
+![](https://img.shields.io/github/forks/sysdl132/m5stack-stickwatch)
+
+![](https://img.shields.io/github/stars/sysdl132/m5stack-stickwatch)
+
+![](https://img.shields.io/github/issues/sysdl132/m5stack-stickwatch)
 # m5stack-stickwatch
 
 [Little changed on eggfly's stickwatch.](https://github.com/eggfly/StickWatch)
