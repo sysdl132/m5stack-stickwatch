@@ -1,3 +1,5 @@
+Language:English | [中文](https://github.com/sysdl132/m5stack-stickwatch/blob/master/README.md#%E4%B8%AD%E6%96%87%E7%89%88)
+
 # English version
 
 ![](https://img.shields.io/github/forks/sysdl132/m5stack-stickwatch)
@@ -5,6 +7,7 @@
 ![](https://img.shields.io/github/stars/sysdl132/m5stack-stickwatch)
 
 ![](https://img.shields.io/github/issues/sysdl132/m5stack-stickwatch)
+
 # m5stack-stickwatch
 
 [Little changed on eggfly's stickwatch.](https://github.com/eggfly/StickWatch)
@@ -30,12 +33,14 @@ const char* BUILTIN_WIFI_PASSWORD  = "wifi_password";
 
 # APP Version
 
-Latest version is  1.76-r3|V1.76-R3>>>Fix some bugs|V0.20>>>First create
+Latest version is v1.4|v1.4 Fix some bugs|V0.20 First create
 
 #URLs
 
 index of M5Stick:
 [click here](https://docs.m5stack.com/#/en/core/m5stick)
+
+Language:[English](https://github.com/sysdl132/m5stack-stickwatch/blob/master/README.md#english-version) | 中文
 
 # 中文版
 
@@ -64,7 +69,7 @@ const char* BUILTIN_WIFI_PASSWORD  = "wifi密码";
 
 # 版本
 
-最新：1.76-r3|此版本：修复一些bug|0.20：第一个版本
+最新：1.4|此版本：修复一些bug|0.20：第一个版本
 
 # URL
 
