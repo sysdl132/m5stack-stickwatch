@@ -50,6 +50,8 @@ Language:[English](https://github.com/sysdl132/m5stack-stickwatch/blob/master/RE
 
 # m5stack-stickwatch
 
+[国内镜像](https://gitee.com/sysdl132/m5stack-stickwatch/tree/master)
+
 [在eggfly的文件上略微改动。](https://github.com/eggfly/StickWatch)
 
 # 注意
