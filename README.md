@@ -1,3 +1,5 @@
+![挂科](https://gitee.com/sysdl132/m5stack-stickwatch/widgets/widget_2.svg)
+
 Language:English | [中文](https://github.com/sysdl132/m5stack-stickwatch/blob/master/README.md#%E4%B8%AD%E6%96%87%E7%89%88)
 
 # English version
