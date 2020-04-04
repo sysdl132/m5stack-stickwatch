@@ -1,4 +1,4 @@
-![image](https://gitee.com/sysdl132/m5stack-stickwatch/widgets/widget_2.svg) ![](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)
+[![image](https://gitee.com/sysdl132/m5stack-stickwatch/widgets/widget_2.svg)](https://gitee.com/sysdl132/m5stack-stickwatch) [![](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/sysdl132/m5stack-stickwatch)
 
 Language:English | [中文](https://github.com/sysdl132/m5stack-stickwatch/blob/master/README.md#%E4%B8%AD%E6%96%87%E7%89%88)
 
